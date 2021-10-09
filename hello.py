@@ -1,17 +1,18 @@
 def check(func):
   
   def inner(strg):
-    if len(strg) > 20:
-      return "You said a lot! I can't handle it."
+    if len(strg) > 60:
+      strg =  "You said a lot! I can't handle it."
     elif len(strg.split()) > 10:
-      return "Too many words! Make a brief."
-    else:
-      return func(strg)
+      strg = "Too many words! Make a brief."
+    return func(strg)
+
   return inner
 
-@check()
+@check
 def say(strg):
-  return strg
+  return 'You said: ' + strg
 
 if __name__ == '__main__':
-  say(input("Do you wanna say something?\n "))
+  sentence = say(input("Do you wanna say something?\n "))
+  print(sentence)
