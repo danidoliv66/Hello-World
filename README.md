@@ -40,9 +40,9 @@ I'm going to add some code here for later updatings.
 
 
 | Per class metrics |
-| Metric | Accuracy | F1-score | AUC |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Metric | Accuracy<td colspan=2> | F1-score | AUC |
 |  | Class | Reg | Class | Reg | Class | Reg |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 |  |  |  |  |  |  |
 | 2 |  |  |  |  |  |  |
 | 3 |  |  |  |  |  |  |
