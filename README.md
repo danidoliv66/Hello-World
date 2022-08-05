@@ -42,6 +42,7 @@ I'm going to add some code here for later updatings.
 | Per class metrics |
 | Matric | Accuracy | F1-score | AUC |
 |  | Class | Reg | Class | Reg | Class | Reg |
+|:--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 |  |  |  |  |  |  |
 | 2 |  |  |  |  |  |  |
 | 3 |  |  |  |  |  |  |
