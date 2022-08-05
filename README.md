@@ -40,7 +40,7 @@ I'm going to add some code here for later updatings.
 
 
 | Per class metrics |
-| Metric Accuracy<td colspan=2> F1-score<td colspan=2> AUC<td colspan=2> |
+| Metric Accuracy <td colspan=2> F1-score <td colspan=2> AUC <td colspan=2> |
 |  | Class | Reg | Class | Reg | Class | Reg |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 |  |  |  |  |  |  |
