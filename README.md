@@ -39,10 +39,7 @@ I'm going to add some code here for later updatings.
 | TNR Micro | 0.90 |  |
 
 
-| Per class metrics |
-| :--- | :--- | :--- | :--- |
-| Metric | Accuracy | F1-score | AUC |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+
 |  | Class | Reg | Class | Reg | Class | Reg |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 |  |  |  |  |  |  |
